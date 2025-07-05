@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fe52858b90730661",
+        "id": "783cbca91db96d58",
         "type": "tabs",
         "children": [
           {
-            "id": "f6b14a8dc71722aa",
+            "id": "c7466f43d7884226",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,6 +33,7 @@
       {
         "id": "acea455fa03cb2d7",
         "type": "tabs",
+        "dimension": 43.84615384615385,
         "children": [
           {
             "id": "33c703d1ad6ab8b5",
@@ -73,14 +74,21 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "aefab521ed4f76a2",
+        "type": "tabs",
+        "dimension": 56.15384615384615,
+        "children": [
           {
             "id": "b9c4d0ac25ed2a92",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记本/叫魂：1768年中国妖术大恐慌.md",
+                "file": "📔 笔记本/叫魂：1768年中国妖术大恐慌.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -187,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,16 +207,16 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "random-note:开始漫游笔记": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f6b14a8dc71722aa",
+  "active": "33c703d1ad6ab8b5",
   "lastOpenFiles": [
+    "看板.md",
+    "📔 笔记本/叫魂：1768年中国妖术大恐慌.md",
     "📜 模板/书名.md",
     "笔记本/叫魂：1768年中国妖术大恐慌.md",
     "笔记本",
-    "未命名.md",
     "📜 模板"
   ]
 }
